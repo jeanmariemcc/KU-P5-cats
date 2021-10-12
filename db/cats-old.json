@@ -1,0 +1,30 @@
+[
+	{
+		"id": 0,
+		"name": "Sassy",
+		"description": "Walks on a leash",
+		"breed": "Siamese",
+		"image": "siamese.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Lincoln",
+		"description": "Very funny cat that acts like a dog",
+		"breed": "British Shorthair Cat",
+		"image": "bwcat.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Cat 3",
+		"description": "very special cat",
+		"breed": "American Bobtail Cat",
+		"image": "siberian-farm.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Cat 6",
+		"description": "id should be 6",
+		"breed": "Unknown",
+		"image": "cat2.jpg"
+	}
+]
